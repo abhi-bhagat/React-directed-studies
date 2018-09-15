@@ -1,8 +1,3 @@
-# React-directed-studies
-React JS
-
-
-
 
 Resources from where I am planning to learn ReactJS are as follows:
 
