@@ -41,4 +41,5 @@ Pharmacy management system aims at providing a simpler management system to the 
 USER STORIES:
 
 
+![alt text](https://github.com/abhi-bhagat/React-directed-studies/blob/master/user%20cases.png)
 
