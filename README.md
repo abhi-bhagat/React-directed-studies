@@ -43,3 +43,8 @@ USER STORIES:
 
 ![alt text](https://github.com/abhi-bhagat/React-directed-studies/blob/master/user%20cases.png)
 
+
+PROGRESS REPORT:
+![alt text](https://github.com/abhi-bhagat/React-directed-studies/blob/master/progress%20report.png)
+
+
